@@ -59,7 +59,7 @@
     "grunt-htmljson": "0.1.1",
     "postcss": "7.0.35",
     "webpack": "4.44.2",
-    "webpack-cli": "3.3.12"
+    "webpack-cli": "4.0.0"
   },
   "devDependencies": {
     "babel-eslint": "10.1.0",
